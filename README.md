@@ -1,1 +1,2 @@
 # Market-Basket-Analysis
+A Market Basket Analysis project involves examining customer purchasing patterns by analyzing transaction data to identify relationships between products. The goal is to uncover associations, such as frequently bought together items, using techniques like the Apriori or FP-Growth algorithms. This analysis helps businesses optimize product placement, marketing strategies, and recommendation systems, ultimately boosting sales and enhancing customer experience.
